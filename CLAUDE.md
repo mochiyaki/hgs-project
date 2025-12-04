@@ -1,14 +1,15 @@
 # CLAUDE.md – Project TODOs
 
 ## Frontend (Vite + React + TailwindCSS)
-- [ ] Initialize Vite project with React template.
-- [ ] Install and configure TailwindCSS (postcss, autoprefixer).
-- [ ] Set up basic folder structure: `src/components`, `src/pages`, `src/hooks`.
+- [x] Initialize Vite project with React template.
+- [x] Install and configure TailwindCSS (postcss, autoprefixer).
+- [x] Set up basic folder structure: `src/components`, `src/pages`, `src/hooks`.
 - [ ] Implement product catalog page (fetch food items from backend).
 - [ ] Create shopping cart context/store and UI components.
 - [ ] Build checkout flow with order submission API call.
 - [ ] Add admin dashboard layout (protected route).
 - [ ] Integrate authentication handling (login, token storage).
+- [x] Convert React components from JSX to TSX.
 
 ## Backend (FastAPI + Python)
 - [ ] Scaffold FastAPI project (`app/main.py`, routers folder).
